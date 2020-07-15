@@ -1,0 +1,61 @@
+BODY{
+    background: url("setka_razmytost_fon_119289_3840x2400.jpg") ;
+    background-size:100%;
+    background-attachment: fixed;
+    color: white;
+}
+.hidden{
+    display: none;
+}
+
+#username-page{
+    height: 10em;
+     }
+#username-page{
+    margin: 0;
+    position: absolute;
+    top: 7%;
+    left: 49%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+#chat-page{
+    margin: 0;
+    position: absolute;
+    top: 7%;
+    left: 44%;
+}
+#chat-page{
+    height: 10em;
+}
+#message{
+    border: 1px solid #dcdcdc;
+    border-radius: 7px 0 0 7px;
+    padding: 5px 10px;
+    margin-left: 0;
+
+}
+
+#name{
+    border: 1px solid #dcdcdc;
+    padding: 5px 10px;
+    margin-left: 0;
+    border-radius: 7px;
+}
+
+#button{
+    margin-left: 30%;
+    margin-top: 5px;
+    border: 1px solid #dcdcdc;
+    border-radius: 7px ;
+    padding: 5px 10px;
+}
+
+.buttonMessage{
+    padding: 5px;
+
+    border: 1px solid #dcdcdc;
+    border-radius: 0 7px 7px 0 ;
+}
+#messages{
+    margin-bottom: 30px;
+}
